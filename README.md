@@ -1,2 +1,2 @@
-# new-coder1
-tutorials from new-coder
+# new-coder
+Tutorials From new-coder
